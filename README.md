@@ -13,12 +13,12 @@
 <!-- Badges --->
 <p align="center">
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rodriqosilva/ecoleta.svg">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rodrigoridasi/ecoleta.svg">
 
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/rodriqosilva/ecoleta.svg">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/rodrigoridasi/ecoleta.svg">
   
-<a href="https://github.com/rodriqosilva/ecoleta/commits/master">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rodriqosilva/ecoleta.svg">
+<a href="https://github.com/rodrigoridasi/ecoleta/commits/master">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rodrigoridasi/ecoleta.svg">
 </a>
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -35,6 +35,6 @@ O Ecoleta é um projeto para localização de pontos de coleta de lixo especial 
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rodriqosilva/ecoleta/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rodrigoridasi/ecoleta/blob/master/LICENSE) para mais detalhes.
 
 ---
